@@ -581,3 +581,5 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 - **[ToolHive](https://github.com/Stacklok/toolhive)** - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+
+- **[M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server)** - Zero-registration HTTP 402 M2M Gateway & Task Clearinghouse (L402 Lightning & x402 Base/Solana USDC) with Stealth Web Unlocker, Structured Financial Extractor, Python Sandbox, and Agent Memory Vault.
